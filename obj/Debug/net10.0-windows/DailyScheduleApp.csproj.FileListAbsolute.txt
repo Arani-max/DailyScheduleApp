@@ -1,0 +1,6 @@
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net10.0-windows\DailyScheduleApp.Forms.MainForm.resources
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net10.0-windows\DailyScheduleApp.csproj.GenerateResource.cache
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net10.0-windows\DailyScheduleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net10.0-windows\DailyScheduleApp.AssemblyInfoInputs.cache
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net10.0-windows\DailyScheduleApp.AssemblyInfo.cs
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net10.0-windows\DailyScheduleApp.csproj.CoreCompileInputs.cache

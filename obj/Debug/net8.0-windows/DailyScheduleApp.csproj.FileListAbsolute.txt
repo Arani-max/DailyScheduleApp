@@ -1,0 +1,17 @@
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net8.0-windows\DailyScheduleApp.Forms.MainForm.resources
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net8.0-windows\DailyScheduleApp.Forms.StatisticsForm.resources
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net8.0-windows\DailyScheduleApp.csproj.GenerateResource.cache
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net8.0-windows\DailyScheduleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net8.0-windows\DailyScheduleApp.AssemblyInfoInputs.cache
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net8.0-windows\DailyScheduleApp.AssemblyInfo.cs
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net8.0-windows\DailyScheduleApp.csproj.CoreCompileInputs.cache
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\bin\Debug\net8.0-windows\DailyScheduleApp.exe
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\bin\Debug\net8.0-windows\DailyScheduleApp.deps.json
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\bin\Debug\net8.0-windows\DailyScheduleApp.runtimeconfig.json
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\bin\Debug\net8.0-windows\DailyScheduleApp.dll
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\bin\Debug\net8.0-windows\DailyScheduleApp.pdb
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net8.0-windows\DailyScheduleApp.dll
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net8.0-windows\refint\DailyScheduleApp.dll
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net8.0-windows\DailyScheduleApp.pdb
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net8.0-windows\DailyScheduleApp.genruntimeconfig.cache
+C:\Users\Господин\Desktop\BONUS\DailyScheduleApp\DailyScheduleApp\obj\Debug\net8.0-windows\ref\DailyScheduleApp.dll
